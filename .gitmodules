@@ -1,0 +1,3 @@
+[submodule "Ionic-app"]
+	path = Ionic-app
+	url = https://github.com/gfedele/Ionic-app.git
