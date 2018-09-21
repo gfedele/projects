@@ -1,3 +1,6 @@
 [submodule "Ionic-app"]
 	path = Ionic-app
 	url = https://github.com/gfedele/Ionic-app.git
+[submodule "Mean-Ang6"]
+	path = Mean-Ang6
+	url = git@github.com:gfedele/Mean-Ang6.git
